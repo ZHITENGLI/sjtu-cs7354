@@ -49,3 +49,6 @@ pick 9cf2a7d Add installation guide
 git checkout main
 git merge documentation
 git push
+git checkout documentation
+git push --force
+git checkout main
